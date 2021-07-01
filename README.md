@@ -18,4 +18,6 @@
 
 ## 大数据方向
 - 熟悉 Hadoop 的基本生态组件、编写简单的 MapReduce 程序进行分析。
-- 熟悉 Hbase 分布式数据库，Hive 数据仓库、
+- 熟悉 Hbase 分布式数据库、Hive 数据仓库、Sqoop开发工具、Echarts进行数据可视化分析。
+- 熟悉 Flume 数据采集、Kafka消息中间、Storm流式计算。
+- 熟悉 Spark，Scala 进行数据分析
