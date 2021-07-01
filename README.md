@@ -8,7 +8,7 @@
 
 # 技术栈
 ## Java方向
-- 熟悉Java基础，熟悉使用Spring、SpringMvc、Mybatis、Mybatis-plus进行开发。
+- 熟悉Java基础，熟悉使用Spring、SpringMvc、Springboot、Mybatis、Mybatis-plus进行开发。
 - 熟悉使用 Shiro Security Jwt 进行开发。
 - 熟悉掌握主流数据库 Mysql、Redis。
 - 熟悉 Nginx 负载均衡、Docker容器。
